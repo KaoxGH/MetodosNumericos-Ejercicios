@@ -1,0 +1,121 @@
+/*==========================================================*/
+.fondo11T{
+    -fx-background-image: url("1.1Tema.png");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo11D{
+    -fx-background-image: url("1.1Diagrama.png");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo11E1{
+    -fx-background-image: url("1.1Ejercicio1.png");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo11E2{
+    -fx-background-image: url("1.1Ejercicio2.png");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+/*==========================================================*/
+.fondo12T{
+    -fx-background-image: url("1.2Tema.png");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo12D{
+    -fx-background-image: url("1.2Diagrama.png");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo12E1{
+    -fx-background-image: url("1.2Ejercicio1.png");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo12E2{
+    -fx-background-image: url("1.2Ejercicio2.png");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+/*==========================================================*/
+.fondo13T{
+    -fx-background-image: url("1.3Tema.png");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo13D{
+    -fx-background-image: url("1.3Diagrama.png");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo13E1{
+    -fx-background-image: url("1.3Ejercicio1.png");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo13E2{
+    -fx-background-image: url("1.3Ejercicio2.png");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+/*==========================================================*/
+.fondo14T{
+    -fx-background-image: url("1.4Tema.png");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo14D{
+    -fx-background-image: url("1.4Diagrama.png");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo14E1{
+    -fx-background-image: url("1.4Ejercicio1.png");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo14E2{
+    -fx-background-image: url("1.4Ejercicio2.png");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+/*==========================================================*/
+.fondo15T{
+    -fx-background-image: url("1.5Tema.png");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo15D{
+    -fx-background-image: url("1.5Diagrama.png");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo15E1{
+    -fx-background-image: url("1.5Ejercicio1.png");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo15E2{
+    -fx-background-image: url("1.5Ejercicio2.png");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+/*==========================================================*/
+
+.ejercicios{
+    -fx-background-color: linear-gradient(#ff5400, #be1d00);
+    -fx-background-radius: 30;
+    -fx-background-insets: 0;
+    -fx-text-fill: white;
+    -fx-border-color: black;
+    -fx-border-insets: 0;
+    -fx-border-radius: 30;
+    -fx-effect: dropshadow(gaussian,black,3,0.5,2,2);
+}
+.ejercicios:hover{
+    -fx-border-color: white;
+    -fx-border-width: 2; 
+}

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane id="AnchorPane" prefHeight="600.0" prefWidth="800.0" styleClass="fondoIndices" stylesheets="@metodoscss.css" xmlns="http://javafx.com/javafx/8.0.65" xmlns:fx="http://javafx.com/fxml/1" fx:controller="metodosnumericos.MetodosNumericosMainController">
+    <children>
+      <Button fx:id="btnCerrarSesion" alignment="BOTTOM_LEFT" layoutX="355.0" layoutY="563.0" mnemonicParsing="false" onAction="#handleButtonAction" text="Cerrar sesión">
+         <font>
+            <Font name="Arial Bold" size="12.0" />
+         </font>
+      </Button>
+      <Text layoutX="51.0" layoutY="100.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Los siguientes temas contienen actividades con algunos ejemplos, sus respectivos diagramas de flujo y &#10;ejercicios que podrá resolver.">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Text>
+      <Text layoutX="345.0" layoutY="58.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Temas">
+         <font>
+            <Font name="Agency FB" size="59.0" />
+         </font>
+      </Text>
+      <Text fill="WHITE" layoutX="31.0" layoutY="164.0" strokeType="OUTSIDE" strokeWidth="0.0" text="1.-Interpolación">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Text>
+      <Text fill="WHITE" layoutX="31.0" layoutY="265.0" strokeType="OUTSIDE" strokeWidth="0.0" text="2.- Solución de Ecuaciones no Lineales">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Text>
+      <Text fill="WHITE" layoutX="31.0" layoutY="369.0" strokeType="OUTSIDE" strokeWidth="0.0" text="3.- Solución de Ecuaciones Lineales">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Text>
+      <Text fill="WHITE" layoutX="31.0" layoutY="445.0" strokeType="OUTSIDE" strokeWidth="0.0" text="4.- Mínimos Cuadrados">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Text>
+      <Button fx:id="btn11" layoutX="31.0" layoutY="185.0" mnemonicParsing="false" onAction="#handleIndices" styleClass="indices" stylesheets="@metodoscss.css" text="1.1 Interpolación Lineal" />
+      <Button fx:id="btn12" layoutX="178.0" layoutY="185.0" mnemonicParsing="false" onAction="#handleIndices" styleClass="indices" stylesheets="@metodoscss.css" text="1.2 Newton hacia Adelante" />
+      <Button fx:id="btn13" layoutX="345.0" layoutY="185.0" mnemonicParsing="false" onAction="#handleIndices" styleClass="indices" stylesheets="@metodoscss.css" text="1.3 Newton hacia Atrás" />
+      <Button fx:id="btn14" layoutX="492.0" layoutY="185.0" mnemonicParsing="false" onAction="#handleIndices" styleClass="indices" stylesheets="@metodoscss.css" text="1.4 Newton con Diferencias Divididas" />
+      <Button fx:id="btn15" layoutX="31.0" layoutY="218.0" mnemonicParsing="false" onAction="#handleIndices" styleClass="indices" stylesheets="@metodoscss.css" text="1.5 Lagrange" />
+      <Button fx:id="btn21" layoutX="31.0" layoutY="286.0" mnemonicParsing="false" onAction="#handleIndices" styleClass="indices" stylesheets="@metodoscss.css" text="2.1 Gráfico" />
+      <Button fx:id="btn22" layoutX="116.0" layoutY="286.0" mnemonicParsing="false" onAction="#handleIndices" styleClass="indices" stylesheets="@metodoscss.css" text="2.2 Bisectriz" />
+      <Button fx:id="btn23" layoutX="203.0" layoutY="286.0" mnemonicParsing="false" onAction="#handleIndices" styleClass="indices" stylesheets="@metodoscss.css" text="2.3 Punto Fijo ó Sustituciones Sucesivas" />
+      <Button fx:id="btn24" layoutX="441.0" layoutY="286.0" mnemonicParsing="false" onAction="#handleIndices" styleClass="indices" stylesheets="@metodoscss.css" text="2.4 Newton - Raphson" />
+      <Button fx:id="btn26" layoutX="31.0" layoutY="319.0" mnemonicParsing="false" onAction="#handleIndices" styleClass="indices" stylesheets="@metodoscss.css" text="2.6 Secante" />
+      <Button fx:id="btn25" layoutX="585.0" layoutY="286.0" mnemonicParsing="false" onAction="#handleIndices" styleClass="indices" stylesheets="@metodoscss.css" text="2.5 Falsa Posición ó Regula" />
+      <Button fx:id="btn31" layoutX="31.0" layoutY="390.0" mnemonicParsing="false" onAction="#handleIndices" styleClass="indices" stylesheets="@metodoscss.css" text="3.1 Montante" />
+      <Button fx:id="btn32" layoutX="129.0" layoutY="390.0" mnemonicParsing="false" onAction="#handleIndices" styleClass="indices" stylesheets="@metodoscss.css" text="3.2 Gauss - Jordan" />
+      <Button fx:id="btn33" layoutX="257.0" layoutY="390.0" mnemonicParsing="false" onAction="#handleIndices" styleClass="indices" stylesheets="@metodoscss.css" text="3.3 Eliminación Gaussiana" />
+      <Button fx:id="btn34" layoutX="428.0" layoutY="390.0" mnemonicParsing="false" onAction="#handleIndices" styleClass="indices" stylesheets="@metodoscss.css" text="3.4 Gauss - Seidel" />
+      <Button fx:id="btn36" layoutX="632.0" layoutY="390.0" mnemonicParsing="false" onAction="#handleIndices" styleClass="indices" stylesheets="@metodoscss.css" text="3.6 Raíces de Polinomios" />
+      <Button fx:id="btn35" layoutX="551.0" layoutY="390.0" mnemonicParsing="false" onAction="#handleIndices" styleClass="indices" stylesheets="@metodoscss.css" text="3.5 Jacobi" />
+      <Button fx:id="btn41" layoutX="31.0" layoutY="466.0" mnemonicParsing="false" onAction="#handleIndices" styleClass="indices" stylesheets="@metodoscss.css" text="4.1 Linea Recta" />
+      <Button fx:id="btn42" layoutX="140.0" layoutY="466.0" mnemonicParsing="false" onAction="#handleIndices" styleClass="indices" stylesheets="@metodoscss.css" text="4.2 Cuadrática" />
+      <Button fx:id="btn43" layoutX="242.0" layoutY="466.0" mnemonicParsing="false" onAction="#handleIndices" styleClass="indices" stylesheets="@metodoscss.css" text="4.3 Cúbica" />
+      <Button fx:id="btn44" layoutX="333.0" layoutY="466.0" mnemonicParsing="false" onAction="#handleIndices" styleClass="indices" stylesheets="@metodoscss.css" text="4.4 Lineal con Función" />
+      <Button fx:id="btn45" layoutX="483.0" layoutY="466.0" mnemonicParsing="false" onAction="#handleIndices" styleClass="indices" stylesheets="@metodoscss.css" text="4.5 Cuadrática con Función" />
+      <Button fx:id="btnSiguiente" alignment="BOTTOM_LEFT" layoutX="698.0" layoutY="563.0" mnemonicParsing="false" onAction="#handleButtonAction" text="Siguiente">
+         <font>
+            <Font name="Arial Bold" size="12.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>

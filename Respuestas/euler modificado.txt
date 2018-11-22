@@ -1,0 +1,2 @@
+euler modificado 
+y'1 = 0.939

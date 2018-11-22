@@ -1,0 +1,86 @@
+.fondo{
+    -fx-background-image: url("metodos.jpg");
+}
+.fondoSesion{
+    -fx-background-image: url("metodoInicios.jpg");
+}
+
+.fondoIndices{
+    -fx-background-image: url("fondo.jpg");
+}
+/*==========================================================*/
+.fondo24T{
+    -fx-background-image: url("2.4_Teoria.jpg");
+}
+.fondo24D{
+    -fx-background-image: url("2.4_diagrama.png");
+}
+.fondo24E1{
+    -fx-background-image: url("2.4_E1.jpg");
+}
+.fondo24E2{
+    -fx-background-image: url("2.4_E2.jpg");
+}
+/*==========================================================*/
+.indices{
+    -fx-background-color: linear-gradient(#395cab, #223768);
+    -fx-background-radius: 30;
+    -fx-background-insets: 0;
+    -fx-text-fill: white;
+    -fx-border-color: black;
+    -fx-border-insets: 0;
+    -fx-border-radius: 30;
+}
+.indices:hover{
+    -fx-border-color: white;
+    -fx-border-width: 2; 
+}
+.botonesIndice1{
+    -fx-background-color: linear-gradient(#1c7aff, #4995ff);
+    -fx-background-radius: 30;
+    -fx-background-insets: 0;
+    -fx-text-fill: white;
+    -fx-border-color: white;
+    -fx-border-insets: 0;
+    -fx-border-radius: 30;
+    -fx-effect: dropshadow(gaussian,black,3,0.5,2,2);
+}
+.botonesIndice1:hover{
+    -fx-background-color: linear-gradient(#4995ff, #1c7aff);
+    -fx-border-width: 2; 
+}
+
+
+
+
+.ejercicios{
+    -fx-background-color: linear-gradient(#ff5400, #be1d00);
+    -fx-background-radius: 30;
+    -fx-background-insets: 0;
+    -fx-text-fill: white;
+    -fx-border-color: black;
+    -fx-border-insets: 0;
+    -fx-border-radius: 30;
+    -fx-effect: dropshadow(gaussian,black,3,0.5,2,2);
+}
+.ejercicios:hover{
+    -fx-border-color: white;
+    -fx-border-width: 2; 
+}
+
+.botonesMain{
+    -fx-background-color: transparent;
+    /*-fx-background-radius: 30;
+    -fx-background-insets: 0;
+    -fx-text-fill: white;
+    -fx-border-color: black;
+    -fx-border-width: 2;
+    -fx-border-insets: 0;
+    -fx-border-radius: 30;
+    -fx-effect: dropshadow(gaussian,black,3,0.5,2,2);*/
+}
+
+.botonesMain:hover{
+    -fx-scale-x: 1.3;
+    -fx-scale-y: 1.3;
+}

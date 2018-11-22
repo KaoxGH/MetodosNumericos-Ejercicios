@@ -1,0 +1,246 @@
+/*==========================================================*/
+.fondo61T{
+    -fx-background-image: url("6.1_Teoria.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo61D{
+    -fx-background-image: url("6.1_Diagrama.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo61E1{
+    -fx-background-image: url("6.1_E1.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo61E2{
+    -fx-background-image: url("6.1_E2.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+/*==========================================================*/
+.fondo62T{
+    -fx-background-image: url("6.2_Teoria.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo62D{
+    -fx-background-image: url("6.2_Diagrama.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo62E1{
+    -fx-background-image: url("6.2_E1.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo62E2{
+    -fx-background-image: url("6.2_E2.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+/*==========================================================*/
+.fondo63T{
+    -fx-background-image: url("6.3_Teoria.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo63D{
+    -fx-background-image: url("6.3_Diagrama.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo63E1{
+    -fx-background-image: url("6.3_E1.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo63E2{
+    -fx-background-image: url("6.3_E2.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+/*==========================================================*/
+.fondo64T{
+    -fx-background-image: url("6.4_Teoria.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo64D{
+    -fx-background-image: url("6.4_diagrama.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo64E1{
+    -fx-background-image: url("6.4_E1.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo64E2{
+    -fx-background-image: url("6.4_E2.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+/*==========================================================*/
+.fondo65T{
+    -fx-background-image: url("6.5_Teoria.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo65D{
+    -fx-background-image: url("6.5_diagrama.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo65E1{
+    -fx-background-image: url("6.5_E1.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo65E2{
+    -fx-background-image: url("6.5_E2.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+/*==========================================================*/
+.fondo66T{
+    -fx-background-image: url("6.6_Teoria.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo66D{
+    -fx-background-image: url("6.6_diagrama.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo66E1{
+    -fx-background-image: url("6.6_E1.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo66E2{
+    -fx-background-image: url("6.6_E2.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+/*==========================================================*/
+.fondo67T{
+    -fx-background-image: url("6.7_Teoria.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo67D{
+    -fx-background-image: url("6.7_diagrama.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo67E1{
+    -fx-background-image: url("6.7_E1.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo67E2{
+    -fx-background-image: url("6.7_E2.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+/*==========================================================*/
+.fondo68T{
+    -fx-background-image: url("6.8_Teoria.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo68D{
+    -fx-background-image: url("6.8_diagrama.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo68E1{
+    -fx-background-image: url("6.8_E1.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo68E2{
+    -fx-background-image: url("6.8_E2.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+/*==========================================================*/
+.fondo69T{
+    -fx-background-image: url("6.9_Teoria.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo69D{
+    -fx-background-image: url("6.9_diagrama.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo69E1{
+    -fx-background-image: url("6.9_E1.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo69E2{
+    -fx-background-image: url("6.9_E2.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+/*==========================================================*/
+.fondo610T{
+    -fx-background-image: url("6.10_Teoria.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo610D{
+    -fx-background-image: url("6.10_diagrama.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo610E1{
+    -fx-background-image: url("6.10_E1.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo610E2{
+    -fx-background-image: url("6.10_E2.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+/*==========================================================*/
+.fondo611T{
+    -fx-background-image: url("6.11_Teoria.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo611D{
+    -fx-background-image: url("6.11_diagrama.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo611E1{
+    -fx-background-image: url("6.11_E1.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo611E2{
+    -fx-background-image: url("6.11_E2.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+/*==========================================================*/
+.ejercicios{
+    -fx-background-color: linear-gradient(#ff5400, #be1d00);
+    -fx-background-radius: 30;
+    -fx-background-insets: 0;
+    -fx-text-fill: white;
+    -fx-border-color: black;
+    -fx-border-insets: 0;
+    -fx-border-radius: 30;
+    -fx-effect: dropshadow(gaussian,black,3,0.5,2,2);
+}
+.ejercicios:hover{
+    -fx-border-color: white;
+    -fx-border-width: 2; 
+}

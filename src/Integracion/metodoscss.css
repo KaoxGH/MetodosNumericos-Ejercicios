@@ -1,0 +1,142 @@
+/*==========================================================*/
+.fondo51T{
+    -fx-background-image: url("5.1_Teoria.png");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo51D{
+    -fx-background-image: url("5.1_Diagrama.png");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo51E1{
+    -fx-background-image: url("5.1_E1.png");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo51E2{
+    -fx-background-image: url("5.1_E2.png");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+/*==========================================================*/
+.fondo52T{
+    -fx-background-image: url("5.2_Teoria.png");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo52D{
+    -fx-background-image: url("5.2_Diagrama.png");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo52E1{
+    -fx-background-image: url("5.2_E1.png");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo52E2{
+    -fx-background-image: url("5.2_E2.png");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+/*==========================================================*/
+.fondo53T{
+    -fx-background-image: url("5.3_Teoria.png");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo53D{
+    -fx-background-image: url("5.3_Diagrama.png");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo53E1{
+    -fx-background-image: url("5.3_E1.png");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo53E2{
+    -fx-background-image: url("5.3_E2.png");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+/*==========================================================*/
+.fondo54T{
+    -fx-background-image: url("5.4_Tabla1.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo54D{
+    -fx-background-image: url("5.4_Tabla2.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo54E1{
+    -fx-background-image: url("5.4_E1.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo54E2{
+    -fx-background-image: url("5.4_E2.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+/*==========================================================*/
+.fondo55T{
+    -fx-background-image: url("5.5_Teoria.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo55D{
+    -fx-background-image: url("5.5_diagrama.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo55E1{
+    -fx-background-image: url("5.5_E1.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo55E2{
+    -fx-background-image: url("5.5_E2.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+/*==========================================================*/
+.fondo56T{
+    -fx-background-image: url("5.6_Teoria.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo56D{
+    -fx-background-image: url("5.6_diagrama.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo56E1{
+    -fx-background-image: url("5.6_E1.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo56E2{
+    -fx-background-image: url("5.6_E2.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+/*==========================================================*/
+
+.ejercicios{
+    -fx-background-color: linear-gradient(#ff5400, #be1d00);
+    -fx-background-radius: 30;
+    -fx-background-insets: 0;
+    -fx-text-fill: white;
+    -fx-border-color: black;
+    -fx-border-insets: 0;
+    -fx-border-radius: 30;
+    -fx-effect: dropshadow(gaussian,black,3,0.5,2,2);
+}
+.ejercicios:hover{
+    -fx-border-color: white;
+    -fx-border-width: 2; 
+}

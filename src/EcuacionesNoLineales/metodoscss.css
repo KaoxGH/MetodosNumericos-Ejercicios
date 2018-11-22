@@ -1,0 +1,141 @@
+/*==========================================================*/
+.fondo21T{
+    -fx-background-image: url("2.1Tema.png");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo21D{
+    -fx-background-image: url("2.1_diagrama.jng");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo21E1{
+    -fx-background-image: url("2.1_E1.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo21E2{
+    -fx-background-image: url("2.1_E2.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+/*==========================================================*/
+.fondo22T{
+    -fx-background-image: url("2.2Tema.png");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo22D{
+    -fx-background-image: url("2.2_diagrama.jng");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo22E1{
+    -fx-background-image: url("2.2_E1.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo22E2{
+    -fx-background-image: url("2.2_E2.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+/*==========================================================*/
+.fondo23T{
+    -fx-background-image: url("2.3_Teoria.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo23D{
+    -fx-background-image: url("2.3_diagrama.jng");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo23E1{
+    -fx-background-image: url("2.3_E1.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo23E2{
+    -fx-background-image: url("2.3_E2.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+/*==========================================================*/
+.fondo24T{
+    -fx-background-image: url("2.4_Teoria.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo24D{
+    -fx-background-image: url("2.4_diagrama.png");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo24E1{
+    -fx-background-image: url("2.4_E1.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo24E2{
+    -fx-background-image: url("2.4_E2.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+/*==========================================================*/
+.fondo25T{
+    -fx-background-image: url("2.5_Teoria.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo25D{
+    -fx-background-image: url("2.5_diagrama.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo25E1{
+    -fx-background-image: url("2.5_E1.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo25E2{
+    -fx-background-image: url("2.5_E2.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+/*==========================================================*/
+.fondo26T{
+    -fx-background-image: url("2.6Tema_ejemplo.png");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo26D{
+    -fx-background-image: url("2.6Diagrama.png");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo26E1{
+    -fx-background-image: url("2.6Ejemplo1.png");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+.fondo26E2{
+    -fx-background-image: url("2.6Ejemplo2.png");
+    -fx-background-position: center;
+    -fx-background-repeat:no-repeat;
+}
+/*==========================================================*/
+.ejercicios{
+    -fx-background-color: linear-gradient(#ff5400, #be1d00);
+    -fx-background-radius: 30;
+    -fx-background-insets: 0;
+    -fx-text-fill: white;
+    -fx-border-color: black;
+    -fx-border-insets: 0;
+    -fx-border-radius: 30;
+    -fx-effect: dropshadow(gaussian,black,3,0.5,2,2);
+}
+.ejercicios:hover{
+    -fx-border-color: white;
+    -fx-border-width: 2; 
+}
